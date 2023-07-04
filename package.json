@@ -1,7 +1,7 @@
 {
-	"name": "Vegito",
-	"version": "30.0.0",
-	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord don't forget miraiproject And Choru tiktokers.",
+	"name": "Kurumi",
+	"version": "2.0.1",
+	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord don't forget miraiproject And Cypruspro21k.",
 	"main": "mirai.js",
 	"scripts": {
 		"start": "pm2 kill && pm2 start index.js -i 1 --no-daemon",
